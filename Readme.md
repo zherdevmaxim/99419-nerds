@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Максим Жердев](https://up.htmlacademy.ru/htmlcss/16/user/99419).
-* Наставник: [Витольд Демишкевич].https://htmlacademy.ru/profile/id34217
+* Наставник: [Витольд Smile Демишкевич].https://htmlacademy.ru/profile/id34217
 
 ---
 
